@@ -1,0 +1,619 @@
+skill_name,job_count,demand_percent
+SAP,5606,5.74
+SQL,4164,4.26
+Agile,3641,3.73
+Python,3517,3.6
+Java,3479,3.56
+Azure,3422,3.5
+Excel,3343,3.42
+AWS,3297,3.38
+Research,2335,2.39
+Software Development,2242,2.3
+CI/CD,2128,2.18
+Oracle,1947,1.99
+Optimization,1881,1.93
+JavaScript,1612,1.65
+Microservices,1555,1.59
+GCP,1483,1.52
+Kubernetes,1398,1.43
+Spring,1379,1.41
+C,1376,1.41
+Git,1330,1.36
+Networking,1267,1.3
+React,1256,1.29
+Docker,1221,1.25
+Angular,1209,1.24
+Linux,1168,1.2
+Scrum,1153,1.18
+Jenkins,1096,1.12
+Jira,1093,1.12
+ETL,1058,1.08
+CSS,987,1.01
+Salesforce,956,0.98
+Go,876,0.9
+Spring Boot,873,0.89
+HTML,871,0.89
+Software Engineering,825,0.84
+GitHub,808,0.83
+Kafka,783,0.8
+Data Engineering,720,0.74
+Power BI,713,0.73
+C#,710,0.73
+SQL Server,694,0.71
+MySQL,689,0.71
+PostgreSQL,646,0.66
+ServiceNow,635,0.65
+Terraform,572,0.59
+SAP ABAP,567,0.58
+Selenium,555,0.57
+MongoDB,549,0.56
+Snowflake,505,0.52
+Ansible,499,0.51
+Tableau,498,0.51
+Data Science,484,0.5
+TypeScript,472,0.48
+C++,467,0.48
+Azure DevOps,465,0.48
+forecasting,458,0.47
+algorithms,457,0.47
+Databricks,454,0.46
+machine learning,439,0.45
+Unix,429,0.44
+Node.js,413,0.42
+Hibernate,406,0.42
+data quality,402,0.41
+data modeling,401,0.41
+unit testing,392,0.4
+test automation,391,0.4
+Google Cloud,387,0.4
+Scala,383,0.39
+Machine Learning,382,0.39
+Microsoft Azure,373,0.38
+Hadoop,360,0.37
+Confluence,347,0.36
+PySpark,339,0.35
+data analytics,326,0.33
+GIT,313,0.32
+data integration,303,0.31
+Airflow,303,0.31
+PowerShell,293,0.3
+R,288,0.29
+GitHub Actions,284,0.29
+GitLab,282,0.29
+Shell,281,0.29
+LLM,277,0.28
+regression,275,0.28
+data visualization,272,0.28
+data structures,271,0.28
+TensorFlow,263,0.27
+data warehousing,263,0.27
+Cisco,259,0.27
+cybersecurity,258,0.26
+IAM,258,0.26
+Django,257,0.26
+Postman,253,0.26
+PyTorch,253,0.26
+system design,252,0.26
+GraphQL,252,0.26
+shell,249,0.25
+data science,246,0.25
+data governance,242,0.25
+Bash,240,0.25
+Generative AI,239,0.24
+NLP,237,0.24
+API development,237,0.24
+Data Analytics,232,0.24
+Hive,227,0.23
+Maven,226,0.23
+Flask,222,0.23
+Redis,220,0.23
+integration testing,214,0.22
+REST API,214,0.22
+PHP,208,0.21
+JUnit,199,0.2
+ELT,190,0.19
+Spring boot,186,0.19
+MLOps,186,0.19
+OOP,183,0.19
+DNS,181,0.19
+BigQuery,180,0.18
+Typescript,180,0.18
+FastAPI,178,0.18
+scrum,175,0.18
+Cybersecurity,173,0.18
+python,173,0.18
+Forecasting,169,0.17
+Javascript,168,0.17
+business intelligence,164,0.17
+HTTP,162,0.17
+Artificial Intelligence,155,0.16
+JAVA,154,0.16
+Information Security,152,0.16
+RESTful API,150,0.15
+GitLab CI,147,0.15
+Apache Spark,147,0.15
+generative AI,146,0.15
+Data Warehouse,145,0.15
+Test Automation,144,0.15
+Azure Data Factory,144,0.15
+JPA,143,0.15
+deep learning,141,0.14
+Business Intelligence,141,0.14
+PL/SQL,140,0.14
+Pandas,138,0.14
+cloud security,135,0.14
+Data Governance,135,0.14
+Ruby,134,0.14
+SCRUM,132,0.14
+java,131,0.13
+VBA,125,0.13
+Kotlin,124,0.13
+Data Lake,122,0.12
+Large Language Models,121,0.12
+DynamoDB,120,0.12
+Golang,119,0.12
+Pyspark,117,0.12
+OAuth,117,0.12
+VPN,116,0.12
+Perl,115,0.12
+network security,115,0.12
+Cassandra,114,0.12
+Bitbucket,112,0.11
+UNIX,111,0.11
+SSL,110,0.11
+Gradle,109,0.11
+classification,107,0.11
+data warehouse,107,0.11
+Github,106,0.11
+TCP/IP,103,0.11
+Unit Testing,101,0.1
+Data Modeling,97,0.1
+Vue.js,97,0.1
+Advanced Excel,97,0.1
+JWT,93,0.1
+Hugging Face,92,0.09
+NumPy,91,0.09
+Elasticsearch,90,0.09
+information security,89,0.09
+statistical analysis,88,0.09
+SAP S/4HANA,87,0.09
+Visual Studio,87,0.09
+artificial intelligence,85,0.09
+PL / SQL,84,0.09
+Junit,83,0.08
+Algorithms,83,0.08
+Data Quality,83,0.08
+Spring MVC,82,0.08
+Rest API,82,0.08
+Oracle ERP,81,0.08
+GPT,79,0.08
+Data Structures,78,0.08
+c,78,0.08
+Swift,78,0.08
+Eclipse,74,0.08
+large language models,73,0.07
+Cloud Security,72,0.07
+spring,72,0.07
+Business Analytics,70,0.07
+Keras,70,0.07
+Express.js,70,0.07
+Amazon Web Services,69,0.07
+DAX,69,0.07
+Scikit-learn,69,0.07
+data pipeline,69,0.07
+Data Integration,68,0.07
+AWS Lambda,67,0.07
+Transformers,67,0.07
+git,65,0.07
+advanced Excel,65,0.07
+Regression,64,0.07
+MATLAB,63,0.06
+Swagger,63,0.06
+scikit-learn,63,0.06
+linux,61,0.06
+clustering,60,0.06
+computer vision,60,0.06
+Gitlab,59,0.06
+API Development,58,0.06
+Deep Learning,57,0.06
+Network Security,57,0.06
+react,57,0.06
+transformers,57,0.06
+Power Query,56,0.06
+Looker,55,0.06
+Qlik,55,0.06
+model deployment,55,0.06
+natural language processing,52,0.05
+feature engineering,50,0.05
+Unit testing,48,0.05
+Azure Synapse,48,0.05
+transformer,48,0.05
+Spring Security,48,0.05
+neural networks,45,0.05
+docker,45,0.05
+TCP / IP,44,0.05
+spring boot,44,0.05
+data lake,43,0.04
+Data Visualization,43,0.04
+Computer Vision,42,0.04
+data cleaning,41,0.04
+data mining,40,0.04
+Data Warehousing,40,0.04
+Google BigQuery,40,0.04
+selenium,39,0.04
+business analytics,39,0.04
+Sql,38,0.04
+TLS,38,0.04
+Natural Language Processing,37,0.04
+Flink,37,0.04
+sql,37,0.04
+Apache Airflow,37,0.04
+unix,36,0.04
+angular,35,0.04
+Sap,34,0.03
+reinforcement learning,34,0.03
+Dart,34,0.03
+embeddings,33,0.03
+Integration Testing,33,0.03
+BitBucket,32,0.03
+SWIFT,31,0.03
+GoLang,31,0.03
+Transformer,30,0.03
+snowflake,30,0.03
+REACT,30,0.03
+Object Oriented Programming,30,0.03
+salesforce,30,0.03
+Matplotlib,30,0.03
+Data warehousing,29,0.03
+Powershell,29,0.03
+Rust,29,0.03
+System Design,28,0.03
+Data science,27,0.03
+swift,27,0.03
+oracle,27,0.03
+bash,27,0.03
+DataBricks,26,0.03
+Classification,26,0.03
+Azure Devops,26,0.03
+Data warehouse,26,0.03
+pandas,25,0.03
+Jupyter,24,0.02
+statistical modeling,24,0.02
+Test automation,24,0.02
+XGBoost,23,0.02
+ElasticSearch,22,0.02
+decision trees,22,0.02
+time series,22,0.02
+MLOPS,21,0.02
+BERT,21,0.02
+HBase,21,0.02
+AWS RDS,21,0.02
+Machine learning,21,0.02
+LINUX,20,0.02
+SQLite,20,0.02
+Github Actions,20,0.02
+Neo4j,20,0.02
+Data Pipeline,19,0.02
+Matlab,19,0.02
+terraform,19,0.02
+Html,19,0.02
+Servicenow,18,0.02
+Data structures,18,0.02
+VS Code,17,0.02
+AWS S3,17,0.02
+Data visualization,17,0.02
+OpenCV,17,0.02
+Clustering,17,0.02
+Gitlab CI,17,0.02
+Postgresql,17,0.02
+Hbase,17,0.02
+advanced excel,16,0.02
+html,16,0.02
+ORACLE,16,0.02
+Integration testing,15,0.02
+Restful API,15,0.02
+typescript,15,0.02
+flask,15,0.02
+Tensorflow,15,0.02
+javascript,15,0.02
+NLTK,15,0.02
+Google cloud,15,0.02
+Seaborn,15,0.02
+Data analytics,15,0.02
+pyspark,14,0.01
+kubernetes,14,0.01
+Cloud security,13,0.01
+ansible,13,0.01
+Numpy,13,0.01
+Azure Data factory,13,0.01
+Information security,12,0.01
+node.js,12,0.01
+sap,12,0.01
+SciPy,12,0.01
+predictive modeling,12,0.01
+r,12,0.01
+Data modeling,12,0.01
+Azure devops,12,0.01
+hibernate,11,0.01
+Pytorch,11,0.01
+CISCO,11,0.01
+SVM,11,0.01
+spaCy,11,0.01
+POSTMAN,11,0.01
+tableau,11,0.01
+confluence,11,0.01
+MYSQL,10,0.01
+Mysql,10,0.01
+airflow,10,0.01
+Plotly,10,0.01
+GitHub actions,10,0.01
+Deep learning,10,0.01
+GITHUB,10,0.01
+System design,9,0.01
+Data mining,9,0.01
+powershell,9,0.01
+Data quality,9,0.01
+PYTHON,9,0.01
+Time Series,9,0.01
+Object Oriented programming,9,0.01
+object oriented programming,9,0.01
+OAUTH,9,0.01
+IntelliJ IDEA,9,0.01
+maven,8,0.01
+BASH,8,0.01
+Neural Networks,8,0.01
+numpy,8,0.01
+oAuth,8,0.01
+Model Deployment,8,0.01
+logistic regression,8,0.01
+SalesForce,8,0.01
+databricks,8,0.01
+HIVE,8,0.01
+github,8,0.01
+Http,8,0.01
+Neo4J,8,0.01
+Reinforcement Learning,8,0.01
+Azure Blob Storage,7,0.01
+LightGBM,7,0.01
+LSTM,7,0.01
+SPRING,7,0.01
+perl,7,0.01
+PERL,7,0.01
+Php,7,0.01
+Data integration,7,0.01
+Data lake,7,0.01
+Visual studio,7,0.01
+Data Mining,7,0.01
+Amazon S3,7,0.01
+azure data factory,7,0.01
+Oauth,6,0.01
+c#,6,0.01
+linear regression,6,0.01
+SHELL,6,0.01
+CNN,6,0.01
+azure devops,6,0.01
+matplotlib,6,0.01
+bitbucket,6,0.01
+AWS EC2,5,0.01
+Statistical Analysis,5,0.01
+jenkins,5,0.01
+rest API,5,0.01
+Object oriented programming,5,0.01
+Azure data factory,5,0.01
+GITLAB,5,0.01
+Trino,5,0.01
+MySql,5,0.01
+eclipse,5,0.01
+Random Forest,5,0.01
+Rest Api,5,0.01
+visual studio,5,0.01
+PostGreSQL,5,0.01
+rest api,5,0.01
+postman,5,0.01
+Advanced excel,5,0.01
+Data governance,5,0.01
+css,5,0.01
+cisco,4,0.0
+TLs,4,0.0
+SQl,4,0.0
+Artificial intelligence,4,0.0
+SpaCy,4,0.0
+Jupyter Notebook,4,0.0
+HADOOP,4,0.0
+pl / sql,4,0.0
+Linear Regression,4,0.0
+Pl/SQL,4,0.0
+GITHub,4,0.0
+AZURE DATA FACTORY,4,0.0
+RUST,4,0.0
+vue.js,4,0.0
+Azure synapse,4,0.0
+hive,4,0.0
+Business intelligence,4,0.0
+JENKINS,4,0.0
+swagger,4,0.0
+gradient boosting,4,0.0
+MongoDb,3,0.0
+KNN,3,0.0
+jUnit,3,0.0
+MAVEN,3,0.0
+Mongodb,3,0.0
+Large Language models,3,0.0
+mysql,3,0.0
+Network security,3,0.0
+gitLab,3,0.0
+plotly,3,0.0
+GITHUB Actions,3,0.0
+Predictive modeling,3,0.0
+pySpark,3,0.0
+flink,3,0.0
+Embeddings,3,0.0
+dns,3,0.0
+RNN,3,0.0
+ruby,3,0.0
+Decision Trees,3,0.0
+Sap Abap,3,0.0
+Sap ABAP,3,0.0
+SCALA,3,0.0
+Scikit-Learn,3,0.0
+Scipy,3,0.0
+servicenow,3,0.0
+Css,3,0.0
+Spring security,3,0.0
+c++,3,0.0
+Statistical Modeling,3,0.0
+system Design,3,0.0
+Azure DevOPS,3,0.0
+Time series,3,0.0
+Apache spark,3,0.0
+ANGULAR,3,0.0
+VS code,3,0.0
+Natural language processing,2,0.0
+POWERSHELL,2,0.0
+data Analytics,2,0.0
+POSTGRESQL,2,0.0
+TerraForm,2,0.0
+TERRAFORM,2,0.0
+Data pipeline,2,0.0
+powerShell,2,0.0
+Logistic Regression,2,0.0
+IntelliJ Idea,2,0.0
+Linear regression,2,0.0
+Graphql,2,0.0
+seaborn,2,0.0
+JAva,2,0.0
+gitlab,2,0.0
+SAP Abap,2,0.0
+Dax,2,0.0
+junit,2,0.0
+Sap S/4hana,2,0.0
+hadoop,2,0.0
+RestFUL API,2,0.0
+machine Learning,2,0.0
+Business analytics,2,0.0
+FLASK,2,0.0
+qlik,2,0.0
+github actions,2,0.0
+Bigquery,2,0.0
+Feature Engineering,2,0.0
+FASTAPI,2,0.0
+ServiceNOW,2,0.0
+Amazon EC2,2,0.0
+jupyter,2,0.0
+UNIT Testing,2,0.0
+AirFlow,2,0.0
+Computer vision,2,0.0
+etl,2,0.0
+golang,2,0.0
+Apache airflow,2,0.0
+PYSPARK,2,0.0
+K-means,2,0.0
+Presto,2,0.0
+Data cleaning,2,0.0
+DJango,2,0.0
+kotlin,2,0.0
+GOLANG,1,0.0
+SPRING BOOT,1,0.0
+spring mvc,1,0.0
+spring MVC,1,0.0
+Spring mvc,1,0.0
+Google Bigquery,1,0.0
+advanced EXCEL,1,0.0
+google cloud,1,0.0
+google Cloud,1,0.0
+gpt,1,0.0
+Gradient Boosting,1,0.0
+sqlite,1,0.0
+CASSANDRA,1,0.0
+Vs Code,1,0.0
+gradle,1,0.0
+Statistical analysis,1,0.0
+STATISTICAL ANALYSIS,1,0.0
+GraphQl,1,0.0
+KUBERNETES,1,0.0
+support vector machine,1,0.0
+nltk,1,0.0
+business Intelligence,1,0.0
+nlp,1,0.0
+HBASE,1,0.0
+KERAs,1,0.0
+network Security,1,0.0
+HIBERNATE,1,0.0
+SYSTEM DESIGN,1,0.0
+HIve,1,0.0
+AZURE DEVOPS,1,0.0
+TCP / Ip,1,0.0
+AZURE DevOps,1,0.0
+Tcp/IP,1,0.0
+http,1,0.0
+mySQL,1,0.0
+mySql,1,0.0
+mongodb,1,0.0
+Azure data Factory,1,0.0
+Model deployment,1,0.0
+MLops,1,0.0
+Microsoft azure,1,0.0
+Azure Blob storage,1,0.0
+Azure blob storage,1,0.0
+Aws S3,1,0.0
+matlab,1,0.0
+JUNIT,1,0.0
+ARTIFICIAL INTELLIGENCE,1,0.0
+Word2Vec,1,0.0
+random forest,1,0.0
+Generative ai,1,0.0
+ReAct,1,0.0
+FastApi,1,0.0
+redis,1,0.0
+Fastapi,1,0.0
+fastapi,1,0.0
+Etl,1,0.0
+GiT,1,0.0
+GitHUB,1,0.0
+Rest ApI,1,0.0
+presto,1,0.0
+DynamoDb,1,0.0
+REST Api,1,0.0
+restful API,1,0.0
+Restful Api,1,0.0
+Predictive Modeling,1,0.0
+RestFUl API,1,0.0
+RESTFul API,1,0.0
+RESTFUL API,1,0.0
+UNIT TESTING,1,0.0
+DJANGO,1,0.0
+RUBY,1,0.0
+deep Learning,1,0.0
+SALESFORCE,1,0.0
+Power query,1,0.0
+XgBoost,1,0.0
+Decision trees,1,0.0
+amazon web services,1,0.0
+Github actions,1,0.0
+DATA Quality,1,0.0
+PostMan,1,0.0
+data Quality,1,0.0
+scipy,1,0.0
+Llm,1,0.0
+data Pipeline,1,0.0
+PostgreSql,1,0.0
+postgresql,1,0.0
+pl/sql,1,0.0
+AIRFLOW,1,0.0
+Pl / SQL,1,0.0
+data Lake,1,0.0
+SERVICENOW,1,0.0
+Pl / Sql,1,0.0
+data Integration,1,0.0
+PhP,1,0.0
+SnowFlake,1,0.0
+goLang,1,0.0
+spacy,1,0.0
+PANDAS,1,0.0
+PANDAs,1,0.0
+DART,1,0.0
+CYBERSECURITY,1,0.0
+GOLang,1,0.0
+CyberSecurity,1,0.0
+spring Boot,1,0.0
+vpn,1,0.0

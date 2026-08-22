@@ -1,0 +1,525 @@
+skill,job_count
+sales,9206
+python,5846
+project management,5543
+customer service,5122
+sap,5043
+css,4188
+java,4088
+sql,3983
+business development,3745
+communication skills,3499
+development,3311
+javascript,3006
+c#,2978
+marketing,2503
+troubleshooting,2470
+agile,2459
+accounting,2435
+english,2272
+automation,2269
+team management,2268
+analytical,2159
+oracle,2135
+networking,2085
+rest,2054
+operations,2043
+software testing,1993
+c++,1987
+aws,1884
+data analysis,1870
+training,1850
+voice process,1845
+customer support,1828
+lead generation,1800
+bpo,1768
+continuous integration,1751
+consulting,1729
+html,1600
+software development,1579
+application development,1574
+microservices,1544
+b2b sales,1536
+kubernetes,1509
+spring boot,1499
+web services,1468
+finance,1460
+erp,1453
+channel sales,1398
+excel,1312
+react.js,1289
+field sales,1256
+team handling,1251
+computer science,1206
+autocad,1188
+international voice process,1187
+digital marketing,1186
+linux,1176
+compliance,1174
+machine learning,1163
+microsoft azure,1153
+business analysis,1148
+debugging,1144
+risk management,1136
+administration,1128
+hindi,1124
+documentation,1120
+production,1111
+relationship,1089
+accounts payable,1075
+procurement,1075
+telesales,1065
+automation testing,1065
+presentation skills,1057
+ci/cd,1049
+git,1048
+hibernate,1038
+coding,1035
+data,1025
+international bpo,1020
+hr generalist activities,1014
+devops,1007
+relationship management,1005
+screening,996
+market research,970
+data modeling,964
+artificial intelligence,961
+accounts receivable,953
+data management,945
+cold calling,941
+angular,939
+customer care,933
+supply chain,933
+engineering,917
+healthcare,915
+performance tuning,889
+stakeholder management,888
+gcp,886
+spring,886
+talent acquisition,870
+cloud,868
+interpersonal skills,866
+power bi,866
+process,856
+inside sales,851
+international call center,849
+sap hana,847
+sales management,842
+teaching,830
+architecture,830
+financial analysis,826
+application design,825
+banking,824
+direct sales,822
+tds,816
+design,815
+technical support,812
+.net,807
+b2c sales,802
+operations management,798
+etl,792
+content writing,790
+api,779
+development methodologies,776
+sales and marketing,769
+hrsd,758
+non voice process,753
+docker,743
+auditing,741
+root cause analysis,739
+selenium,734
+ms office,721
+insurance sales,721
+billing,715
+telecalling,714
+joining formalities,713
+change management,710
+gst,708
+life insurance,706
+monitoring,706
+calling,704
+research,699
+backend,699
+quality control,695
+voice,692
+quality assurance,690
+mis,686
+full stack,677
+hive,676
+dbms,672
+negotiation,667
+customer relationship,667
+social media,662
+retail,659
+b2b,656
+data analytics,655
+forecasting,650
+sourcing,650
+retail sales,650
+vendor management,650
+corporate sales,647
+analytics,646
+design principles,645
+sap abap,643
+program management,641
+data warehousing,640
+postgresql,638
+mysql,638
+insurance,634
+financial services,632
+software development life cycle,622
+salesforce,622
+product management,618
+convincing power,617
+algorithms,617
+manager technology,617
+software,605
+process improvement,605
+pyspark,604
+budgeting,596
+hospitality,594
+blended process,593
+assistance,587
+project,585
+us process,584
+scala,584
+jira,584
+continuous improvement,583
+taxation,580
+jsp,580
+crm,579
+jquery,577
+payroll,575
+test cases,574
+client acquisition,574
+seo,569
+voice support,569
+leadership,568
+technical leadership,563
+photoshop,558
+manual testing,553
+analysis,553
+scrum,552
+technical,551
+version control,551
+github,545
+service operations,543
+problem solving,542
+sales executive activities,541
+handling,537
+inbound process,537
+bpo voice,536
+international voice,534
+it recruitment,533
+microsoft,532
+relationship building,532
+usage,529
+tally,529
+logistics,519
+servicenow,517
+node.js,515
+planning,513
+us healthcare,513
+purchase,513
+front end,510
+inventory management,507
+customer satisfaction,506
+sap s hana,506
+acquisition,503
+maintenance,501
+.net core,498
+reconciliation,496
+client relationship management,488
+distribution,487
+information technology,483
+data engineering,483
+cross selling,480
+sap sd,480
+financial reporting,479
+office,478
+generation,467
+natural language processing,466
+bootstrap,464
+unit testing,463
+bpo customer service,463
+branch banking,459
+target achievement,458
+business development management,458
+it services,456
+risk assessment,454
+coordination,451
+agile methodology,451
+regression testing,451
+corporate,449
+international sales,449
+reporting,447
+typescript,445
+iso,444
+agency channel,443
+fluent english,443
+balance sheet,439
+snowflake,439
+revenue generation,437
+content editing,436
+home loans,435
+jenkins,435
+end to end recruitment,433
+manager quality assurance,433
+hr,432
+scheduling,431
+sql server,430
+hr operations,430
+plsql,430
+field,423
+inbound,423
+investment banking,422
+content management,419
+quality,418
+chat process,417
+performance management,415
+unix,415
+azure,411
+pharmaceutical,410
+inbound calls,407
+spark,406
+cms,405
+android,401
+cyber security,399
+data structures,397
+assurance,396
+tableau,396
+kafka,395
+loans,395
+stress analysis,394
+outbound sales,390
+performance testing,389
+tally erp,389
+employee engagement,388
+outbound,387
+business intelligence,387
+mechanical engineering,387
+presales,387
+cad,386
+sap fico,385
+journal entries,384
+wordpress,384
+customer handling,383
+abap,383
+sap mm,382
+electricals,382
+human resource management,382
+incident management,381
+international,380
+electrical engineering,378
+advanced excel,373
+sales strategy,371
+web technologies,369
+moderation,369
+management skills,369
+medical,368
+counselling,368
+medical coding,367
+sap abap development,366
+time management,366
+dns,366
+focus,365
+inbound voice process,365
+real estate,363
+front desk,360
+business loan,360
+health insurance,360
+outbound calling,360
+switching,358
+account management,357
+illustrator,357
+operational excellence,357
+financial planning,356
+chat support,356
+creative writing,355
+boot,355
+sales process,353
+terraform,351
+xml,351
+bfsi sales,350
+staffing,348
+data science,346
+packaging,344
+mechanical,344
+editing,344
+employee relations,343
+workflow,343
+verbal communication,343
+database management,342
+bank reconciliation,342
+construction,341
+hadoop,341
+collections,339
+cross sales,338
+new client acquisition,338
+video editing,338
+real estate sales,334
+fico,333
+bi,332
+control,332
+graphic designing,331
+architectural design,331
+data quality,331
+excellent communication in english,330
+fabrication,329
+education,328
+loan against property,328
+statutory compliance,328
+us voice process,327
+upselling,326
+legal,326
+general,324
+front office,324
+information security,324
+client servicing,324
+pharma,320
+variance analysis,320
+bfsi,319
+j2ee,319
+content,319
+mongodb,318
+housekeeping,317
+plc,316
+business strategy,315
+java development,315
+outbound process,315
+record to report,315
+programming,314
+vmware,314
+sap fi,314
+asp.net,313
+banking operations,313
+sdlc,312
+sr,312
+system design,312
+training and development,311
+ado.net,310
+strategic planning,310
+windows,310
+area sales,309
+mathematics,309
+customer engagement,308
+redux,307
+visualforce,307
+mis reporting,307
+internal audit,307
+data migration,306
+network security,305
+service management,305
+graphics,302
+invoice processing,302
+google analytics,301
+media,300
+workday,300
+design engineering,300
+social media marketing,299
+warehouse,299
+shell scripting,298
+integration,297
+area sales management,297
+email support,296
+customer experience,296
+portfolio management,295
+analytical skills,295
+cd,293
+preventive maintenance,293
+back office,293
+solving queries,292
+supply chain management,291
+ux,291
+json,291
+contract management,291
+project planning,290
+claims,289
+data integration,288
+production planning,288
+career development,288
+us sales,286
+due diligence,286
+tamil,286
+digital,286
+gap analysis,286
+team leading,285
+web development,285
+manufacturing,284
+civil engineering,284
+saas,284
+inbound sales,282
+trade,282
+adobe,281
+costing,281
+good english communication,281
+malayalam,281
+sas,280
+data entry,279
+design patterns,278
+tensorflow,278
+field marketing,278
+data validation,278
+django,277
+content creation,277
+data visualization,276
+quality audit,276
+service delivery,276
+admission counselling,276
+maven,275
+mortgage,274
+ppc,274
+mvc,273
+strategic sourcing,273
+product design,273
+api testing,272
+inbound customer service,271
+marathi,270
+3d modeling,269
+financial statements,269
+software engineering,269
+office administration,269
+bed,268
+sales operations,267
+software design,267
+soc,267
+asset management,267
+airflow,267
+itil,267
+nursing,266
+order management,266
+sap implementation,265
+loan sales,265
+itsm,265
+data processing,264
+customer complaints,263
+bde,263
+security,262
+key account management,262
+mutual funds,262
+writing,261
+ar calling,261
+aml,260
+resource,259
+nosql,259
+it sales,259
+credit card sales,259
+pmp,259
+powershell,259
+core,259
+site,258
+azure devops,258
+sap fiori,258
+azure cloud,257
+regulatory,256
+direct,256
+email marketing,256
+configuration,256
+revenue cycle management,254
+sql queries,252
+warehouse management,252
+non it recruitment,252
+payments,252
+cloud computing,252
+territory sales,250
+leadership skills,250

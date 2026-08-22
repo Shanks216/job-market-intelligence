@@ -1,0 +1,731 @@
+role,city,job_count
+Backend Developer,Ahmedabad,4
+Backend Developer,Ambattur,1
+Backend Developer,Ameerpet,1
+Backend Developer,Bangalore Rural,2
+Backend Developer,Bangalore/Bengaluru,1
+Backend Developer,Bengaluru,143
+Backend Developer,Bhubaneswar,1
+Backend Developer,Chandigarh,2
+Backend Developer,Chen,1
+Backend Developer,Chennai,36
+Backend Developer,Coimbatore,3
+Backend Developer,Dharwad,1
+Backend Developer,Ghaziabad,2
+Backend Developer,Gurgaon/Gurugram,2
+Backend Developer,Gurugram,17
+Backend Developer,Hosur,1
+Backend Developer,Hyderabad,51
+Backend Developer,Jaipur,3
+Backend Developer,Kochi,12
+Backend Developer,Kolkata,11
+Backend Developer,Ludhiana,1
+Backend Developer,Meerut,1
+Backend Developer,Mumbai,18
+Backend Developer,Mysuru,3
+Backend Developer,Nagpur,3
+Backend Developer,Nalgonda,1
+Backend Developer,Navi Mumbai,1
+Backend Developer,New Delhi,2
+Backend Developer,Noida,27
+Backend Developer,Pune,51
+Backend Developer,Remote,36
+Backend Developer,Surat,4
+Backend Developer,Thane,1
+Backend Developer,Thiruvananthapuram,1
+Backend Developer,Visakhapatnam,2
+Business Analyst,Ahmedabad,21
+Business Analyst,Anand,1
+Business Analyst,Ayodhya,1
+Business Analyst,Bangalore Rural,3
+Business Analyst,Bangalore/Bengaluru,1
+Business Analyst,Bengaluru,111
+Business Analyst,Chandigarh,2
+Business Analyst,Chennai,49
+Business Analyst,Coimbatore,3
+Business Analyst,Ernakulam,3
+Business Analyst,Faridabad,2
+Business Analyst,Gandhinagar,2
+Business Analyst,Ghaziabad,1
+Business Analyst,Greater Noida,1
+Business Analyst,Gurugram,23
+Business Analyst,Hyderabad,79
+Business Analyst,India,5
+Business Analyst,Indore,1
+Business Analyst,Jaipur,3
+Business Analyst,Kanpur,1
+Business Analyst,Kochi,8
+Business Analyst,Kolkata,6
+Business Analyst,Ludhiana,1
+Business Analyst,Manesar,1
+Business Analyst,Mohali,2
+Business Analyst,Mumbai,27
+Business Analyst,Mumbai Suburban,4
+Business Analyst,Nagpur,1
+Business Analyst,Nashik,2
+Business Analyst,Navi Mumbai,4
+Business Analyst,Noida,30
+Business Analyst,Papua New Guinea,1
+Business Analyst,Pimpri-Chinchwad,1
+Business Analyst,Pune,69
+Business Analyst,Remote,20
+Business Analyst,Rohtak,1
+Business Analyst,Surat,1
+Business Analyst,Thane,2
+Business Analyst,Thiruvananthapuram,4
+Business Analyst,Tiruppur,1
+Cloud Engineer,Bengaluru,22
+Cloud Engineer,Chennai,11
+Cloud Engineer,Coimbatore,1
+Cloud Engineer,Hyderabad,15
+Cloud Engineer,Kozhikode,1
+Cloud Engineer,Mangaluru,1
+Cloud Engineer,Mumbai,5
+Cloud Engineer,Noida,8
+Cloud Engineer,Pune,26
+Cloud Engineer,Remote,1
+Cloud Engineer,Thiruvananthapuram,1
+Cloud Engineer,Vadodara,2
+Data Analyst,Ahmedabad,6
+Data Analyst,Barmer,1
+Data Analyst,Bengaluru,56
+Data Analyst,Chennai,14
+Data Analyst,Chhaygaon,1
+Data Analyst,Coimbatore,2
+Data Analyst,Gandhinagar,1
+Data Analyst,Gurugram,23
+Data Analyst,Hyderabad,47
+Data Analyst,Hyderabad/Secunderabad,2
+Data Analyst,India,1
+Data Analyst,Jaipur,1
+Data Analyst,Jalandhar,1
+Data Analyst,Kochi,1
+Data Analyst,Kolhapur,1
+Data Analyst,Kolkata,5
+Data Analyst,Ludhiana,1
+Data Analyst,Mumbai,33
+Data Analyst,Mumbai Suburban,3
+Data Analyst,Nagpur,1
+Data Analyst,Navi Mumbai,4
+Data Analyst,Noida,9
+Data Analyst,Palwal,1
+Data Analyst,Patna,1
+Data Analyst,Prayagraj,1
+Data Analyst,Pune,31
+Data Analyst,Remote,7
+Data Analyst,Sirhind Fatehgarh Sahib,1
+Data Analyst,Surat,1
+Data Analyst,Thane,3
+Data Analyst,Thiruvananthapuram,1
+Data Analyst,Tiruchirapalli,1
+Data Analyst,Vadodara,4
+Data Analyst,Zirakpur,1
+Data Engineer,Adilabad,5
+Data Engineer,Ahmedabad,6
+Data Engineer,Ambegaon,12
+Data Engineer,Bagalkot,1
+Data Engineer,Ballari,1
+Data Engineer,Bangalore Rural,6
+Data Engineer,Baramati,12
+Data Engineer,Bengaluru,216
+Data Engineer,Bhor,12
+Data Engineer,Bhubaneswar,1
+Data Engineer,Bidar,1
+Data Engineer,Chamarajanagar,1
+Data Engineer,Chennai,64
+Data Engineer,Chikkaballapura,1
+Data Engineer,Chitradurga,1
+Data Engineer,Coimbatore,1
+Data Engineer,Daund,12
+Data Engineer,Davangere,1
+Data Engineer,Greater Noida,1
+Data Engineer,Gurugram,51
+Data Engineer,Haveri,1
+Data Engineer,Hyderabad,202
+Data Engineer,Hyderabad/Secunderabad,1
+Data Engineer,Indapur,12
+Data Engineer,Indore,1
+Data Engineer,Jagtial,5
+Data Engineer,Jaipur,2
+Data Engineer,Jangaon,5
+Data Engineer,Junnar,12
+Data Engineer,Kamareddy,5
+Data Engineer,Karimnagar,5
+Data Engineer,Khammam,5
+Data Engineer,Kheda,12
+Data Engineer,Kochi,24
+Data Engineer,Kodagu,1
+Data Engineer,Kolar,1
+Data Engineer,Kolkata,9
+Data Engineer,Kothagudem,5
+Data Engineer,Krishnagiri,1
+Data Engineer,Lucknow,1
+Data Engineer,Madurai,1
+Data Engineer,Mahabubnagar,5
+Data Engineer,Mancherial,5
+Data Engineer,Mandya,1
+Data Engineer,Mawal,12
+Data Engineer,Medak,5
+Data Engineer,Mulshi,12
+Data Engineer,Mulug,5
+Data Engineer,Mumbai,30
+Data Engineer,Mumbai Suburban,1
+Data Engineer,Mysuru,1
+Data Engineer,Nagarkurnool,5
+Data Engineer,Nalgonda,5
+Data Engineer,Narayanpet,5
+Data Engineer,Nashik,1
+Data Engineer,Navi Mumbai,5
+Data Engineer,New Delhi,2
+Data Engineer,Noida,32
+Data Engineer,Pimpri-Chinchwad,12
+Data Engineer,Pune,140
+Data Engineer,Purandhar,12
+Data Engineer,Raichur,1
+Data Engineer,Ramanagara,1
+Data Engineer,Remote,27
+Data Engineer,Shimoga,1
+Data Engineer,Shirur,12
+Data Engineer,Sholinganallur,1
+Data Engineer,Surat,1
+Data Engineer,Thane,1
+Data Engineer,Thiruvananthapuram,3
+Data Engineer,Tumkur,1
+Data Engineer,Udaipur,1
+Data Engineer,Udupi,1
+Data Engineer,Uttara Kannada,1
+Data Engineer,Vadodara,2
+Data Engineer,Velhe,12
+Data Engineer,Vijayapura,1
+Data Engineer,Visakhapatnam,2
+Data Scientist,Ahmedabad,9
+Data Scientist,Bengaluru,77
+Data Scientist,Bhubaneswar,1
+Data Scientist,Chennai,33
+Data Scientist,Chennai(SIDCO Industrial Estate,1
+Data Scientist,Coimbatore,2
+Data Scientist,Faridabad,1
+Data Scientist,Gurgaon/Gurugram,2
+Data Scientist,Gurugram,31
+Data Scientist,Hyderabad,51
+Data Scientist,Jaipur,2
+Data Scientist,Kolkata,8
+Data Scientist,Mohali,1
+Data Scientist,Mumbai,20
+Data Scientist,Mumbai Suburban,1
+Data Scientist,Nagercoil,1
+Data Scientist,Navi Mumbai,1
+Data Scientist,Noida,8
+Data Scientist,Pune,53
+Data Scientist,Remote,12
+Data Scientist,Thane,1
+Data Scientist,Tirodi,1
+DevOps Engineer,Adilabad,1
+DevOps Engineer,Agra,2
+DevOps Engineer,Ahmedabad,8
+DevOps Engineer,Ambegaon,1
+DevOps Engineer,Baramati,1
+DevOps Engineer,Bengaluru,177
+DevOps Engineer,Bhor,1
+DevOps Engineer,Bhubaneswar,1
+DevOps Engineer,Chandigarh,2
+DevOps Engineer,Chennai,42
+DevOps Engineer,Coimbatore,1
+DevOps Engineer,Daund,1
+DevOps Engineer,Greater Noida,4
+DevOps Engineer,Guntur,1
+DevOps Engineer,Gurugram,39
+DevOps Engineer,Hyderabad,122
+DevOps Engineer,Indapur,1
+DevOps Engineer,Jagtial,1
+DevOps Engineer,Jangaon,1
+DevOps Engineer,Jodhpur,1
+DevOps Engineer,Junnar,1
+DevOps Engineer,Kamareddy,1
+DevOps Engineer,Kanpur,1
+DevOps Engineer,Karimnagar,1
+DevOps Engineer,Khammam,1
+DevOps Engineer,Kheda,1
+DevOps Engineer,Kochi,7
+DevOps Engineer,Kolkata,6
+DevOps Engineer,Kothagudem,1
+DevOps Engineer,Mahabubnagar,1
+DevOps Engineer,Mancherial,1
+DevOps Engineer,Mawal,1
+DevOps Engineer,Medak,1
+DevOps Engineer,Mohali,2
+DevOps Engineer,Mulshi,1
+DevOps Engineer,Mulug,1
+DevOps Engineer,Mumbai,30
+DevOps Engineer,Mumbai Suburban,1
+DevOps Engineer,Mysuru,4
+DevOps Engineer,Nagarkurnool,1
+DevOps Engineer,Nagercoil,1
+DevOps Engineer,Nagpur,2
+DevOps Engineer,Nalgonda,1
+DevOps Engineer,Narayanpet,1
+DevOps Engineer,Navi Mumbai,5
+DevOps Engineer,New Delhi,3
+DevOps Engineer,Noida,39
+DevOps Engineer,Panchkula,4
+DevOps Engineer,Pimpri-Chinchwad,1
+DevOps Engineer,Pune,105
+DevOps Engineer,Purandhar,1
+DevOps Engineer,Remote,22
+DevOps Engineer,Shirur,1
+DevOps Engineer,Thane,3
+DevOps Engineer,Thiruvananthapuram,1
+DevOps Engineer,Udaipur,1
+DevOps Engineer,Velhe,1
+Frontend Developer,Ahmedabad,4
+Frontend Developer,Bandra,1
+Frontend Developer,Bangalore Rural,1
+Frontend Developer,Bengaluru,82
+Frontend Developer,Bharatpur,1
+Frontend Developer,Bhubaneswar,1
+Frontend Developer,Chandigarh,1
+Frontend Developer,Chennai,9
+Frontend Developer,Gandhinagar,1
+Frontend Developer,Greater Noida,1
+Frontend Developer,Gurugram,13
+Frontend Developer,Hyderabad,24
+Frontend Developer,Indore,2
+Frontend Developer,Jaipur,1
+Frontend Developer,Kochi,3
+Frontend Developer,Kolhapur,2
+Frontend Developer,Kolkata,4
+Frontend Developer,Ludhiana,1
+Frontend Developer,Madurai,1
+Frontend Developer,Mohali,5
+Frontend Developer,Mumbai,9
+Frontend Developer,Mumbai Suburban,1
+Frontend Developer,Nagpur,1
+Frontend Developer,New Delhi,2
+Frontend Developer,Noida,15
+Frontend Developer,Pune,23
+Frontend Developer,Remote,10
+Frontend Developer,Surat,1
+Frontend Developer,Thoothukudi,1
+Frontend Developer,Tiruchirapalli,1
+Frontend Developer,Vadodara,1
+Frontend Developer,Visakhapatnam,3
+Full Stack Developer,Adilabad,1
+Full Stack Developer,Ahmedabad,18
+Full Stack Developer,Ajmer,1
+Full Stack Developer,Ambegaon,6
+Full Stack Developer,Baddi,1
+Full Stack Developer,Bagalkot,1
+Full Stack Developer,Ballari,1
+Full Stack Developer,Bangalore Rural,2
+Full Stack Developer,Baramati,6
+Full Stack Developer,Bengaluru,355
+Full Stack Developer,Bhor,6
+Full Stack Developer,Bhubaneswar,4
+Full Stack Developer,Bidar,1
+Full Stack Developer,Chamarajanagar,1
+Full Stack Developer,Chandigarh,4
+Full Stack Developer,Chennai,121
+Full Stack Developer,Chikkaballapura,1
+Full Stack Developer,Chitradurga,1
+Full Stack Developer,Coimbatore,9
+Full Stack Developer,Daund,6
+Full Stack Developer,Davangere,1
+Full Stack Developer,Faridabad,2
+Full Stack Developer,Ghaziabad,1
+Full Stack Developer,Goregaon,1
+Full Stack Developer,Greater Noida,2
+Full Stack Developer,Guntur,1
+Full Stack Developer,Gurugram,36
+Full Stack Developer,Haveri,1
+Full Stack Developer,Hosur,1
+Full Stack Developer,Hubli,2
+Full Stack Developer,Hyderabad,266
+Full Stack Developer,Hyderabad/Secunderabad,1
+Full Stack Developer,Indapur,6
+Full Stack Developer,India,1
+Full Stack Developer,Indore,6
+Full Stack Developer,Jagtial,1
+Full Stack Developer,Jaipur,2
+Full Stack Developer,Jangaon,1
+Full Stack Developer,Junnar,6
+Full Stack Developer,Kalyani,1
+Full Stack Developer,Kamareddy,1
+Full Stack Developer,Karimnagar,1
+Full Stack Developer,Khammam,1
+Full Stack Developer,Kheda,6
+Full Stack Developer,Kochi,16
+Full Stack Developer,Kodagu,1
+Full Stack Developer,Kolar,1
+Full Stack Developer,Kolhapur,2
+Full Stack Developer,Kolkata,17
+Full Stack Developer,Kothagudem,1
+Full Stack Developer,Krishnagiri,1
+Full Stack Developer,Lucknow,2
+Full Stack Developer,Ludhiana,2
+Full Stack Developer,Madurai,1
+Full Stack Developer,Mahabubnagar,1
+Full Stack Developer,Mancherial,1
+Full Stack Developer,Mandya,1
+Full Stack Developer,Mangaluru,1
+Full Stack Developer,Mawal,6
+Full Stack Developer,Medak,1
+Full Stack Developer,Mohali,9
+Full Stack Developer,Mulshi,6
+Full Stack Developer,Mulug,1
+Full Stack Developer,Mumbai,84
+Full Stack Developer,Mumbai Suburban,2
+Full Stack Developer,Mysuru,15
+Full Stack Developer,Nagarkurnool,1
+Full Stack Developer,Nagpur,2
+Full Stack Developer,Nalgonda,1
+Full Stack Developer,Narayanpet,1
+Full Stack Developer,Nashik,1
+Full Stack Developer,Navi Mumbai,6
+Full Stack Developer,New Delhi,1
+Full Stack Developer,Noida,87
+Full Stack Developer,Panchkula,1
+Full Stack Developer,Pimpri-Chinchwad,6
+Full Stack Developer,Puducherry,1
+Full Stack Developer,Pune,210
+Full Stack Developer,Purandhar,6
+Full Stack Developer,Raichur,1
+Full Stack Developer,Ramanagara,1
+Full Stack Developer,Remote,75
+Full Stack Developer,Rewari,1
+Full Stack Developer,Saidapet,2
+Full Stack Developer,Salem,1
+Full Stack Developer,Satara,1
+Full Stack Developer,Shimoga,1
+Full Stack Developer,Shirur,6
+Full Stack Developer,Sholinganallur,1
+Full Stack Developer,South Goa,1
+Full Stack Developer,Surat,3
+Full Stack Developer,Tambaram,1
+Full Stack Developer,Thiruvananthapuram,7
+Full Stack Developer,Tiruchirapalli,1
+Full Stack Developer,Tumkur,1
+Full Stack Developer,Udupi,1
+Full Stack Developer,Uttara Kannada,1
+Full Stack Developer,Vapi,1
+Full Stack Developer,Velhe,6
+Full Stack Developer,Vijayapura,1
+Full Stack Developer,Visakhapatnam,8
+Java Developer,Ahmedabad,2
+Java Developer,Bangalore Rural,1
+Java Developer,Bengaluru,139
+Java Developer,Bhubaneswar,2
+Java Developer,Chandigarh,6
+Java Developer,Chennai,63
+Java Developer,Coimbatore,2
+Java Developer,Dispur,1
+Java Developer,Ernakulam,1
+Java Developer,Faridabad,1
+Java Developer,Gandhinagar,2
+Java Developer,Goregaon,1
+Java Developer,Gurugram,18
+Java Developer,Hyderabad,183
+Java Developer,India,2
+Java Developer,Indore,1
+Java Developer,Jammu,1
+Java Developer,Kochi,10
+Java Developer,Kolkata,17
+Java Developer,Kozhikode,1
+Java Developer,Mangaluru,2
+Java Developer,Mohali,3
+Java Developer,Mumbai,11
+Java Developer,Mumbai Suburban,2
+Java Developer,Mysuru,1
+Java Developer,Nagpur,1
+Java Developer,Navi Mumbai,6
+Java Developer,Noida,25
+Java Developer,Patna,1
+Java Developer,Pune,129
+Java Developer,Remote,13
+Java Developer,Thiruvananthapuram,3
+Java Developer,Udaipur,1
+Project Manager,Ahmedabad,15
+Project Manager,Asansol,1
+Project Manager,Aurangabad,1
+Project Manager,Bangalore Rural,1
+Project Manager,Bangalore/Bengaluru,1
+Project Manager,Barasat,1
+Project Manager,Bareilly,1
+Project Manager,Bawal,1
+Project Manager,Bengaluru,111
+Project Manager,Bhopal,2
+Project Manager,Chandigarh,4
+Project Manager,Chennai,32
+Project Manager,Coimbatore,4
+Project Manager,Dahej,1
+Project Manager,Dharuhera,1
+Project Manager,Dumka,1
+Project Manager,Gandhinagar,4
+Project Manager,Ghaziabad,2
+Project Manager,Goregaon,1
+Project Manager,Gurugram,28
+Project Manager,Guwahati,3
+Project Manager,Hardoi,1
+Project Manager,Hazira,1
+Project Manager,Hosur,1
+Project Manager,Hyderabad,87
+Project Manager,Hyderabad/Secunderabad,2
+Project Manager,Indore,2
+Project Manager,Jaipur,1
+Project Manager,Jamnagar,1
+Project Manager,Jamshedpur,1
+Project Manager,Jhagadia,1
+Project Manager,Jodhpur,1
+Project Manager,Kannur,2
+Project Manager,Kanpur,1
+Project Manager,Khambhalia,1
+Project Manager,Kharagpur,1
+Project Manager,Khopoli,1
+Project Manager,Kochi,9
+Project Manager,Kolkata,17
+Project Manager,Kosi Kalan,1
+Project Manager,Kurnool,1
+Project Manager,Lucknow,2
+Project Manager,Ludhiana,1
+Project Manager,Madikeri,1
+Project Manager,Manesar,1
+Project Manager,Mangaluru,1
+Project Manager,Mirzapur,1
+Project Manager,Mohali,4
+Project Manager,Mumbai,31
+Project Manager,Mumbai Suburban,5
+Project Manager,Nagpur,3
+Project Manager,Nashik,1
+Project Manager,Navi Mumbai,12
+Project Manager,New Delhi,2
+Project Manager,Noida,23
+Project Manager,Oman,1
+Project Manager,Palghar,1
+Project Manager,Pali,1
+Project Manager,Patna,1
+Project Manager,Pimpri-Chinchwad,1
+Project Manager,Puducherry,1
+Project Manager,Pune,67
+Project Manager,Rajasthan,1
+Project Manager,Rajkot,1
+Project Manager,Ranchi,1
+Project Manager,Remote,12
+Project Manager,Salem,1
+Project Manager,Shillong,2
+Project Manager,Solapur,1
+Project Manager,Sonbhadra,1
+Project Manager,Surat,2
+Project Manager,Thane,11
+Project Manager,Thiruvallur,1
+Project Manager,Thiruvananthapuram,2
+Project Manager,Tiruchirapalli,1
+Project Manager,Tirupati,1
+Project Manager,Udupi,1
+Project Manager,Ujjain,1
+Project Manager,Vadodara,2
+Project Manager,Vapi,1
+Project Manager,Varanasi,2
+Project Manager,Vijayawada,1
+Project Manager,Visakhapatnam,2
+Python Developer,Ahmedabad,2
+Python Developer,Bengaluru,53
+Python Developer,Bhilai,1
+Python Developer,Chandigarh,1
+Python Developer,Chennai,27
+Python Developer,Gurugram,8
+Python Developer,Hosur,1
+Python Developer,Hyderabad,55
+Python Developer,Jaipur,4
+Python Developer,Kochi,7
+Python Developer,Kolkata,7
+Python Developer,Kozhikode,1
+Python Developer,Madurai,1
+Python Developer,Mohali,1
+Python Developer,Mumbai,11
+Python Developer,Mumbai Suburban,1
+Python Developer,Nagpur,1
+Python Developer,Navi Mumbai,1
+Python Developer,Noida,7
+Python Developer,Puducherry,1
+Python Developer,Pune,39
+Python Developer,Remote,7
+Python Developer,Thane,3
+Python Developer,Thiruvananthapuram,2
+Python Developer,Vijayawada,1
+QA / Testing,Ahmedabad,28
+QA / Testing,Ahmednagar,1
+QA / Testing,Alleppey,1
+QA / Testing,Amritsar,1
+QA / Testing,Aurangabad,3
+QA / Testing,Baddi,1
+QA / Testing,Bandra,1
+QA / Testing,Barasat,1
+QA / Testing,Bavla,1
+QA / Testing,Becharaji,3
+QA / Testing,Bengaluru,246
+QA / Testing,Bharuch,4
+QA / Testing,Bhavnagar,1
+QA / Testing,Bhilai,1
+QA / Testing,Bhiwadi,1
+QA / Testing,Bhiwandi,1
+QA / Testing,Bhubaneswar,2
+QA / Testing,Bhuj,2
+QA / Testing,Boisar,1
+QA / Testing,Chandigarh,1
+QA / Testing,Chennai,119
+QA / Testing,Coimbatore,11
+QA / Testing,Cuddalore,1
+QA / Testing,Dadra & Nagar Haveli,1
+QA / Testing,Dahej,2
+QA / Testing,Dehgam,1
+QA / Testing,Dharwad,1
+QA / Testing,Ernakulam,1
+QA / Testing,Faridabad,2
+QA / Testing,Gandhidham,1
+QA / Testing,Gandhinagar,2
+QA / Testing,Ghaziabad,2
+QA / Testing,Gonda,2
+QA / Testing,Gorakhpur,1
+QA / Testing,Greater Noida,2
+QA / Testing,Gurugram,82
+QA / Testing,Guwahati,1
+QA / Testing,Hosur,3
+QA / Testing,Hyderabad,174
+QA / Testing,Hyderabad/ Secunderabad,1
+QA / Testing,India,5
+QA / Testing,Indore,2
+QA / Testing,Jaipur,5
+QA / Testing,Jhagadia,1
+QA / Testing,Jodhpur,1
+QA / Testing,Kadi,1
+QA / Testing,Kanpur,1
+QA / Testing,Kheda,1
+QA / Testing,Kochi,12
+QA / Testing,Kochi/Cochin,1
+QA / Testing,Kolkata,15
+QA / Testing,Kozhikode,1
+QA / Testing,Lucknow,1
+QA / Testing,Ludhiana,1
+QA / Testing,Madurai,1
+QA / Testing,Manesar,4
+QA / Testing,Mohali,9
+QA / Testing,Mumbai,57
+QA / Testing,Mumbai Suburban,5
+QA / Testing,Mysuru,3
+QA / Testing,Nagpur,6
+QA / Testing,Nalagarh,1
+QA / Testing,Nashik,2
+QA / Testing,Navi Mumbai,12
+QA / Testing,New Delhi,1
+QA / Testing,Noida,72
+QA / Testing,Oragadam,1
+QA / Testing,Palwal,1
+QA / Testing,Panipat,1
+QA / Testing,Petlad,1
+QA / Testing,Pune,133
+QA / Testing,Raipur,2
+QA / Testing,Rajkot,1
+QA / Testing,Remote,33
+QA / Testing,Sanand,1
+QA / Testing,Satara,1
+QA / Testing,Sonipat,1
+QA / Testing,Sri City,1
+QA / Testing,Surat,4
+QA / Testing,Talegaon-Dabhade,1
+QA / Testing,Tambaram,1
+QA / Testing,Thane,6
+QA / Testing,Thiruvananthapuram,3
+QA / Testing,Tirupati,2
+QA / Testing,Udupi,3
+QA / Testing,Vadodara,5
+QA / Testing,Valsad,1
+QA / Testing,Vapi,2
+QA / Testing,Vasai,1
+QA / Testing,Vijayawada,1
+QA / Testing,Virar,1
+QA / Testing,Visakhapatnam,4
+QA / Testing,kachchh,1
+Software Developer,Ahmedabad,7
+Software Developer,Alleppey,1
+Software Developer,Bengaluru,85
+Software Developer,Bhopal,1
+Software Developer,Chandigarh,1
+Software Developer,Chennai,19
+Software Developer,Coimbatore,4
+Software Developer,Faridabad,1
+Software Developer,Ghaziabad,1
+Software Developer,Gurugram,17
+Software Developer,Hosur,1
+Software Developer,Hyderabad,45
+Software Developer,Indore,1
+Software Developer,Jaipur,2
+Software Developer,Kanpur,1
+Software Developer,Kochi,9
+Software Developer,Kolkata,6
+Software Developer,Lucknow,2
+Software Developer,Madurai,1
+Software Developer,Manesar,1
+Software Developer,Mangaluru,1
+Software Developer,Mohali,1
+Software Developer,Mumbai,9
+Software Developer,Mumbai Suburban,1
+Software Developer,Nagpur,2
+Software Developer,Navi Mumbai,2
+Software Developer,New Delhi,3
+Software Developer,Noida,25
+Software Developer,Patna,1
+Software Developer,Pune,46
+Software Developer,Rajkot,1
+Software Developer,Remote,12
+Software Developer,Sonipat,1
+Software Developer,Surat,1
+Software Developer,Thane,2
+Software Developer,Tirunelveli,2
+Software Developer,Udaipur,1
+Software Developer,Vadodara,1
+Software Developer,Visakhapatnam,1
+Software Engineer,Ahmedabad,4
+Software Engineer,Bangalore Rural,3
+Software Engineer,Bardoli,1
+Software Engineer,Bengaluru,568
+Software Engineer,Bhubaneswar,1
+Software Engineer,Chandigarh,3
+Software Engineer,Chennai,122
+Software Engineer,Coimbatore,5
+Software Engineer,Dubai,1
+Software Engineer,Ernakulam,3
+Software Engineer,Gandhinagar,1
+Software Engineer,Ghaziabad,1
+Software Engineer,Greater Noida,1
+Software Engineer,Gurgaon/Gurugram,1
+Software Engineer,Gurugram,73
+Software Engineer,Hyderabad,300
+Software Engineer,India,13
+Software Engineer,Jaipur,1
+Software Engineer,Kalyani,3
+Software Engineer,Kochi,9
+Software Engineer,Kochi/Cochin,1
+Software Engineer,Kolkata,5
+Software Engineer,Kozhikode,2
+Software Engineer,Lucknow,2
+Software Engineer,Ludhiana,1
+Software Engineer,Madurai,1
+Software Engineer,Mohali,1
+Software Engineer,Mumbai,79
+Software Engineer,Mumbai Suburban,1
+Software Engineer,Mysuru,2
+Software Engineer,Nagercoil,1
+Software Engineer,Nagpur,2
+Software Engineer,Navi Mumbai,4
+Software Engineer,Navsari,1
+Software Engineer,New Delhi,1
+Software Engineer,Noida,88
+Software Engineer,Pune,191
+Software Engineer,Rangareddy,3
+Software Engineer,Remote,38
+Software Engineer,Solan,1
+Software Engineer,Surat,3
+Software Engineer,Thane,6
+Software Engineer,Thiruvananthapuram,5
+Software Engineer,Vadodara,7
+Software Engineer,Visakhapatnam,2
+Software Engineer,Visnagar,1
