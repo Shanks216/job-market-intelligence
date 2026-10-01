@@ -13,3 +13,11 @@ export const getRoles = async () => {
   const response = await API.get("/api/roles")
   return response.data
 }
+
+export const getRoleDetails = async (role) => {
+  const response = await API.get(
+    `/api/roles/${encodeURIComponent(role)}`
+  )
+
+  return response.data
+}
