@@ -4,3 +4,262 @@
 body {
   margin: 0;
 }
+
+.topbar {
+  background: linear-gradient(110deg, #ffffff 0%, #f8faff 100%);
+}
+
+.topbar h1 {
+  background: linear-gradient(110deg, #312e81, #6366f1);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.content {
+  max-width: 1600px;
+  margin: 0 auto;
+}
+
+.content h2 {
+  letter-spacing: -1px;
+}
+
+.subtitle {
+  max-width: 760px;
+  margin-bottom: 8px;
+}
+
+.card,
+.stat-card {
+  position: relative;
+  overflow: hidden;
+  border-color: #e3e8f3;
+  box-shadow: 0 4px 18px rgba(30, 41, 59, 0.035);
+}
+
+.stats > .card::before,
+.stats-grid > .stat-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 3px;
+  background: linear-gradient(90deg, #4f46e5, #818cf8);
+  opacity: 0.85;
+}
+
+.card strong,
+.stat-card p {
+  letter-spacing: -0.7px;
+  font-variant-numeric: tabular-nums;
+}
+
+.section,
+.detail-section,
+.chart-card,
+.detail-card {
+  border-color: #e3e8f3;
+  box-shadow: 0 5px 22px rgba(30, 41, 59, 0.035);
+}
+
+.section h3,
+.detail-section h3,
+.chart-card h3,
+.detail-card h3 {
+  letter-spacing: -0.35px;
+}
+
+.role-card {
+  position: relative;
+  overflow: hidden;
+}
+
+.role-card:hover {
+  border-color: #a5b4fc;
+  box-shadow: 0 12px 28px rgba(79, 70, 229, 0.09);
+}
+
+.search-box,
+.content input[type="text"],
+.content select {
+  box-shadow: 0 1px 2px rgba(15, 23, 42, 0.025);
+}
+
+.skill-row {
+  transition: background-color 0.16s ease;
+}
+
+.skill-row:not(.clickable-skill):hover {
+  background: #fafbff;
+}
+
+.detail-section .stats,
+.detail-card .stats-grid {
+  gap: 14px;
+}
+
+.content .recharts-cartesian-grid-horizontal line,
+.content .recharts-cartesian-grid-vertical line {
+  stroke: #e8edf5;
+}
+
+.content .recharts-cartesian-axis-line,
+.content .recharts-cartesian-axis-tick-line {
+  stroke: #dce3ef;
+}
+
+.content .recharts-tooltip-wrapper .recharts-default-tooltip {
+  border: 1px solid #e2e8f0 !important;
+  border-radius: 10px !important;
+  box-shadow: 0 8px 24px rgba(15, 23, 42, 0.09);
+}
+
+@media (min-width: 1200px) {
+  .content {
+    padding: 36px 40px;
+  }
+
+  .stats,
+  .stats-grid {
+    gap: 20px;
+  }
+
+  .section,
+  .detail-section,
+  .chart-card,
+  .detail-card {
+    padding: 26px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+  }
+}
+
+/* Skill Intelligence visual upgrade */
+
+.skill-table {
+  margin-top: 16px;
+  overflow: hidden;
+  background: #ffffff;
+  border: 1px solid #e6eaf2;
+  border-radius: 12px;
+}
+
+.skill-row {
+  min-height: 48px;
+  padding: 13px 16px;
+  gap: 18px;
+  border-bottom: 1px solid #edf0f6;
+}
+
+.skill-row:last-child {
+  border-bottom: none;
+}
+
+.skill-row > span:first-child {
+  flex: 1;
+}
+
+.skill-row strong {
+  font-variant-numeric: tabular-nums;
+}
+
+.clickable-skill {
+  position: relative;
+  border-radius: 0;
+  background: #ffffff;
+}
+
+.clickable-skill:hover {
+  background: #f4f5ff;
+}
+
+.clickable-skill:hover > span:first-child {
+  color: #4338ca;
+  font-weight: 650;
+}
+
+.detail-section > .search-box,
+.detail-section > input[type="text"] {
+  margin-bottom: 12px;
+}
+
+.detail-section .stats,
+.detail-card .stats-grid {
+  margin-top: 18px;
+}
+
+.detail-section .recharts-responsive-container {
+  margin-top: 8px;
+}
+
+@media (max-width: 520px) {
+  .skill-row {
+    gap: 8px 12px;
+    padding: 12px;
+  }
+}
+
+/* Location Intelligence visual upgrade */
+
+.chart-card {
+  overflow: hidden;
+  background: linear-gradient(145deg, #ffffff 0%, #fcfcff 100%);
+}
+
+.chart-card h3 {
+  padding-bottom: 14px;
+  border-bottom: 1px solid #edf0f6;
+}
+
+.chart-card .recharts-responsive-container {
+  margin-top: 12px;
+}
+
+.chart-card .recharts-tooltip-wrapper {
+  border-radius: 10px;
+}
+
+.detail-card {
+  background: linear-gradient(145deg, #ffffff 0%, #f7f8ff 100%);
+  border-color: #dfe5ff;
+}
+
+.detail-card > h3 {
+  padding-bottom: 14px;
+  border-bottom: 1px solid #e7eaff;
+}
+
+.detail-card .stat-card {
+  background: #ffffff;
+  border-color: #e2e7f4;
+}
+
+.detail-card .stat-card p {
+  color: #4f46e5;
+}
+
+.detail-card .stat-card h3 {
+  margin-bottom: 8px;
+  font-size: 13px;
+  color: #64748b;
+}
+
+.chart-card .skill-table {
+  margin-top: 18px;
+}
+
+@media (max-width: 800px) {
+  .chart-card .recharts-responsive-container {
+    min-height: 280px;
+  }
+}

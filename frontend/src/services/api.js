@@ -21,3 +21,24 @@ export const getRoleDetails = async (role) => {
 
   return response.data
 }
+export const getSkills = async () => {
+  const response = await API.get("/api/skills")
+  return response.data
+}
+
+export const getSkillDetails = async (skill) => {
+  const response = await API.get(
+    `/api/skills/${encodeURIComponent(skill)}`
+  )
+
+  return response.data
+}
+export const getLocations = async () => {
+  const response = await API.get("/api/locations")
+  return response.data
+}
+
+export const getRankings = async () => {
+  const response = await API.get("/api/rankings")
+  return response.data
+}
